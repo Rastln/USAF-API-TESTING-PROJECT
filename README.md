@@ -9,8 +9,8 @@
 
 ### Back End Service Setup:
 - Fork and clone this repository using git
-- To install dependencies, run `npm install` in the root of the project directory
-- To start the server, `cd` into the `server` folder and run `npm run start`
+- To install dependencies, `cd` into the `server` folder run `npm install`
+- To start the server, run `npm run start`
 - The server will be available at `http://localhost:{port}` (`port` is specified in the `app.js` file) 
 
 #### Existing Service Endpoints
